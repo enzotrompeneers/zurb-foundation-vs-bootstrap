@@ -3,7 +3,8 @@ Advantages and disadvantages, benchmark and conclusion
 
 ## Log
 28/9/17 Grid System and Sizing Units  
-3/10/17 Features and Components, Customization
+3/10/17 Features and Components, Customization, Browser Support and Performace
+
 
 ## Sources
 http://blog.teamtreehouse.com/use-bootstrap-or-foundation  
