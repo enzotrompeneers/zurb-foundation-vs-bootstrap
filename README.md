@@ -3,8 +3,7 @@ Advantages and disadvantages, benchmark and conclusion
 
 ## Log
 28/9/17 Grid System and Sizing Units  
-3/10/17 Features and Components, Customization, Browser Support and Performace  
-        Update grid system
+3/10/17 Features and Components, Customization, Browser Support and Performace, Update grid system, update sizing units
 
 ## Sources
 ### general
@@ -18,6 +17,10 @@ https://foundation.zurb.com/sites/docs/v/5.5.3/components/block_grid.html
 https://foundation.zurb.com/forum/posts/1095-center-column-in-a-row  
 https://stackoverflow.com/questions/18153234/center-a-column-using-twitter-bootstrap-3  
 https://foundation.zurb.com/sites/docs/grid.html  
+### sizing units
+http://pxtoem.com/  
+https://zellwk.com/blog/rem-vs-em/  
+
 
 
 
