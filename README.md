@@ -7,14 +7,18 @@ Advantages and disadvantages, benchmark and conclusion
         Update grid system
 
 ## Sources
+### general
 http://blog.teamtreehouse.com/use-bootstrap-or-foundation  
-https://snook.ca/archives/html_and_css/font-size-with-rem
+https://snook.ca/archives/html_and_css/font-size-with-rem  
+### grid system
 https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp  
 https://foundation.zurb.com/sites/docs/v/5.5.3/components/grid.html  
 https://v4-alpha.getbootstrap.com/layout/grid/  
 https://foundation.zurb.com/sites/docs/v/5.5.3/components/block_grid.html  
 https://foundation.zurb.com/forum/posts/1095-center-column-in-a-row  
 https://stackoverflow.com/questions/18153234/center-a-column-using-twitter-bootstrap-3  
+https://foundation.zurb.com/sites/docs/grid.html  
+
 
 
 
