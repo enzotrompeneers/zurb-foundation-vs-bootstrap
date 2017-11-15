@@ -18,6 +18,10 @@ http://selfteach.me/frameworks-bootstrap-foundation-susy/
 https://www.codementor.io/codementorteam/bootstrap-3-vs-foundation-5-which-front-end-framework-should-you-use-8s90mhsgn  
 https://www.slant.co/versus/504/505/~bootstrap_vs_foundation  
 https://blog.planetargon.com/entries/bootstrap  
+http://wordpress.foundationize.com/foundation-6-vs-bootstrap-4/  
+https://www.vermilion.com/responsive-comparison/  
+https://www.bootstrapdash.com/bootstrap-4-vs-foundation-6/  
+https://scotch.io/tutorials/cheat-sheet-for-comparing-bootstrap-and-foundation-css-classes  
 
 ### grid system
 https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp  
@@ -49,6 +53,9 @@ https://v4-alpha.getbootstrap.com/
 ### Community
 https://github.com/search?utf8=%E2%9C%93&q=bootstrap&type=  
 https://github.com/search?utf8=%E2%9C%93&q=foundation&type=  
+
+### Interest
+https://trends.google.com/trends/explore?date=2011-09-01%202017-11-15&q=bootstrap%20framework,foundation%20framework  
 
 
 
