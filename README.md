@@ -6,7 +6,7 @@ Advantages and disadvantages, benchmark and conclusion
 3/10/17 Features and Components, Customization, Browser Support and Performace, Update Grid System, Update Sizing Units
 17/10/17 Update Features and Components
 15/11/17 Preprocessor, Grid, Community, Interest, Pros, Cons  
-16/11/17 Interest, Templates, Block grids, sizing units
+16/11/17 Interest, Templates, Block grids, sizing units, Validation
 
 ## Sources
 ### general
