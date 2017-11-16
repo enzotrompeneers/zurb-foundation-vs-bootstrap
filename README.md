@@ -6,6 +6,7 @@ Advantages and disadvantages, benchmark and conclusion
 3/10/17 Features and Components, Customization, Browser Support and Performace, Update Grid System, Update Sizing Units
 17/10/17 Update Features and Components
 15/11/17 Preprocessor, Grid, Community, Interest, Pros, Cons
+16/11/17 Interest
 
 ## Sources
 ### general
@@ -22,6 +23,7 @@ http://wordpress.foundationize.com/foundation-6-vs-bootstrap-4/
 https://www.vermilion.com/responsive-comparison/  
 https://www.bootstrapdash.com/bootstrap-4-vs-foundation-6/  
 https://scotch.io/tutorials/cheat-sheet-for-comparing-bootstrap-and-foundation-css-classes  
+https://www.google.be/search?q=foundation+vs+bootstrap+comparison+2017&source=lnms&tbm=isch&sa=X&ved=0ahUKEwixwsvByMHXAhVEC-wKHan8CjE4ChD8BQgKKAE&biw=2020&bih=1025#imgrc=I_xbBP53rnMp_M:  
 
 ### grid system
 https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp  
